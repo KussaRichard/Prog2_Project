@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1684169170 source:c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\skeleton\telefonkonyv\telefonkonyv_main.cpp
+	<iostream>
+	"telefonkonyv.hpp"
+
+1684167910 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\skeleton\telefonkonyv\telefonkonyv.hpp
+
+1685306257 source:c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\kontakt.cpp
+	"kontakt.h"
+
+1685305447 source:c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv.cpp
+	"telefonkonyv.h"
+
+1685302670 source:c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv_main.cpp
+	<iostream>
+	"memtrace.h"
+	"telefonkonyv.h"
+
+1685305556 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv.h
+	<iostream>
+	"memtrace.h"
+	"kontakt.h"
+
+1685306180 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\kontakt.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"memtrace.h"
+	"szovegek.h"
+
+1685004699 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv.cpp
+	"telefonkonyv.h"
+
+1685004712 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\kontakt.cpp
+	"kontakt.h"
+
+1685022467 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685022506 source:c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685306366 c:\users\user\desktop\c c++\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\szovegek.h
+
+1685306257 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\kontakt.cpp
+	"kontakt.h"
+
+1685306180 c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\kontakt.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"memtrace.h"
+	"szovegek.h"
+
+1685022467 c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685306366 c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\szovegek.h
+
+1685022506 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685305447 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv.cpp
+	"telefonkonyv.h"
+
+1685305556 c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv.h
+	<iostream>
+	"memtrace.h"
+	"kontakt.h"
+
+1685302670 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_tavaszi\nhf\telefonkonyv\telefonkonyv_main.cpp
+	<iostream>
+	"memtrace.h"
+	"telefonkonyv.h"
+
